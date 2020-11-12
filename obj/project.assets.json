@@ -8469,11 +8469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hui\\Desktop\\JOB\\tutorial_createwebAPI\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Hui\\Desktop\\JOB\\sharie.net_tutorial\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Hui\\Desktop\\JOB\\tutorial_createwebAPI\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\Hui\\Desktop\\JOB\\sharie.net_tutorial\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Hui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hui\\Desktop\\JOB\\tutorial_createwebAPI\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\Hui\\Desktop\\JOB\\sharie.net_tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hui\\AppData\\Roaming\\NuGet\\NuGet.Config"
